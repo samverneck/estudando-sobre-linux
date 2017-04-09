@@ -16,9 +16,9 @@ __________________________________
 
 ### [DEBIAN] :heavy_check_mark:
 
-- Introdução!
+- **Introdução**
 
-	- O que é o Debian GNU/Linux? 
+	- **O que é o Debian GNU/Linux?** 
       
 A combinação da filosofia da Debian e metodologia e das ferramentas GNU, o kernel do Linux e outros softwares livres importantes, formam a única distribução de software chamada Debian GNU/Linux. Esta distribuição é feita de um grande número de pacotes de softwares. Cada pacote na distribuição contém programas executáveis, scripts, documentação e informações de configuração, e tam um mantenedor que é o responsável primariamente por manter o pacote atualizado, analisando relatórios de bug e comunicando-se com o autor upstream do pacote do programa. Nossa base de usuários extremamente grande, combinado com nosso sistema de tratamento de falhas asseguram que os problemas são encontrados e corrigidos rapidamente.
 
@@ -35,5 +35,6 @@ A característica que mais distingue a Debian de outras distribuições Linux é
 Para proteger seu sistema contra “cavalos de tróia” e outros softwares maliciosos, o Debian verifica se os pacotes enviados vem de seus desenvolvedores registrados. Os empacotadores da Debian também tomam verdadeiro cuidado de configurar seus pacotes de uma maneira segura. Quando problemas de segurança são encontrados nos pacotes, as correções são normalmente disponibilizadas rapidamente. Com as opções de atualizações simpls da Debian, as correções de segurança podem ser baixadas e instaladas automaticamente através da Internet.
 
 O método primário, e melhor, de se obter suporte ao seu sistema Debian GNU/Linux e se comunicar com os desenvolvedores do Debian é através das muitas listas de discussão mantidas pelo projeto Debian (existem mais de 215 quando este documento foi escrito). O método masi fácil de se inscrever em uma destas lista é visitar Página de inscrição nas listas de discussão do Debian e preencher o formulário que lá se encontra.
+
 <b>FONTE:</b> https://www.debian.org/releases/etch/hppa/ch01s03.html.pt_BR
 
