@@ -18,7 +18,8 @@ __________________________________
 
 - Introdução!
 
-      - O que é o Debian GNU/Linux? 
+	-O que é o Debian GNU/Linux? 
+      
 A combinação da filosofia da Debian e metodologia e das ferramentas GNU, o kernel do Linux e outros softwares livres importantes, formam a única distribução de software chamada Debian GNU/Linux. Esta distribuição é feita de um grande número de pacotes de softwares. Cada pacote na distribuição contém programas executáveis, scripts, documentação e informações de configuração, e tam um mantenedor que é o responsável primariamente por manter o pacote atualizado, analisando relatórios de bug e comunicando-se com o autor upstream do pacote do programa. Nossa base de usuários extremamente grande, combinado com nosso sistema de tratamento de falhas asseguram que os problemas são encontrados e corrigidos rapidamente.
 
 O Debian atenta para detalhes que nos permitem produzir programas de alta qualidade, estabilidade e distribuição escalonável. As instalações podem ser facilmetne configuradas para servir múltiplos propósitos, de firewalls com poucos pacotes a estações desktop científicas para servidores ou servidores de rede de alta performance.
