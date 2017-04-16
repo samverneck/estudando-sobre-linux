@@ -4,4 +4,4 @@ Vamos falar sobre o nosso velho conhecido o comando **DD**. Mas pra que serve es
 
 **Sintaxe básica:**
 
-> dd if=origem of=destino
+> **dd if=origem of=destino**
